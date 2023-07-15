@@ -1,0 +1,12 @@
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\bin\Debug\net6.0\DesafioSoft.Core.deps.json
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\bin\Debug\net6.0\DesafioSoft.Core.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\bin\Debug\net6.0\DesafioSoft.Core.pdb
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\DesafioSoft.Core.csproj.AssemblyReference.cache
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\DesafioSoft.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\DesafioSoft.Core.AssemblyInfoInputs.cache
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\DesafioSoft.Core.AssemblyInfo.cs
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\DesafioSoft.Core.csproj.CoreCompileInputs.cache
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\DesafioSoft.Core.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\refint\DesafioSoft.Core.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\DesafioSoft.Core.pdb
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Core\obj\Debug\net6.0\ref\DesafioSoft.Core.dll

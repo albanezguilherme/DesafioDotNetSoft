@@ -1,0 +1,17 @@
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\bin\Debug\net6.0\DesafioSoft.Infrastructure.deps.json
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\bin\Debug\net6.0\DesafioSoft.Infrastructure.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\bin\Debug\net6.0\DesafioSoft.Infrastructure.pdb
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\bin\Debug\net6.0\DesafioSoft.Core.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\bin\Debug\net6.0\DesafioSoft.Core.pdb
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.csproj.AssemblyReference.cache
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.AssemblyInfoInputs.cache
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.AssemblyInfo.cs
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.csproj.CopyComplete
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\refint\DesafioSoft.Infrastructure.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.pdb
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\ref\DesafioSoft.Infrastructure.dll
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\bin\Debug\net6.0\DesafioSoft.Infrastructure.runtimeconfig.json
+C:\Temp\Desafio\DesafioDotNetSoft\DesafioSoft\DesafioSoft.Infrastructure\obj\Debug\net6.0\DesafioSoft.Infrastructure.genruntimeconfig.cache
