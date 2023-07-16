@@ -13,14 +13,14 @@ namespace DesafioSoft.Core.Services
             _genericRepository = genericRepository;
         }
 
-        public void Add(T entity)
+        public string Add(T entity)
         {
-            _genericRepository.Add(entity);
+            return _genericRepository.Add(entity);
         }
 
-        public void Delete(int id)
+        public string Delete(T entity)
         {
-            _genericRepository.Delete(id);
+            return _genericRepository.Delete(entity);
         }
 
         public IEnumerable<T> GetAll()
@@ -33,9 +33,9 @@ namespace DesafioSoft.Core.Services
             return _genericRepository.GetById(id);
         }
 
-        public void Update(T entity)
+        public string Update(T entity)
         {
-            _genericRepository.Update(entity);
+            return _genericRepository.Update(entity);
         }
     }
 }

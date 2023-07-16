@@ -11,8 +11,8 @@ namespace DesafioSoft.Core.Interfaces.Repositories
     {
         T GetById(int id);
         IEnumerable<T> GetAll();
-        void Add(T entity);
-        void Update(T entity);
-        void Delete(int id);
+        string Add(T entity);
+        string Update(T entity);
+        string Delete(T entity);
     }
 }

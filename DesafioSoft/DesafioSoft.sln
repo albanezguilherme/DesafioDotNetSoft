@@ -5,9 +5,11 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSoft", "DesafioSoft\DesafioSoft.csproj", "{F926EB08-9316-45A8-AF1B-7619699C5E32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSoft.Core", "DesafioSoft.Core\DesafioSoft.Core.csproj", "{276C78B0-A70A-4D21-9AFC-888D0289A1CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSoft.Core", "DesafioSoft.Core\DesafioSoft.Core.csproj", "{276C78B0-A70A-4D21-9AFC-888D0289A1CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioSoft.Infrastructure", "DesafioSoft.Infrastructure\DesafioSoft.Infrastructure.csproj", "{42AC2400-489E-495F-ADB9-E62152FD48CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSoft.Infrastructure", "DesafioSoft.Infrastructure\DesafioSoft.Infrastructure.csproj", "{42AC2400-489E-495F-ADB9-E62152FD48CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioSoft.Tests", "DesafioSoft.Tests\DesafioSoft.Tests.csproj", "{6D6CEEC4-0FCB-4E7D-A897-B716227406C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{42AC2400-489E-495F-ADB9-E62152FD48CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42AC2400-489E-495F-ADB9-E62152FD48CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42AC2400-489E-495F-ADB9-E62152FD48CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6CEEC4-0FCB-4E7D-A897-B716227406C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6CEEC4-0FCB-4E7D-A897-B716227406C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6CEEC4-0FCB-4E7D-A897-B716227406C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6CEEC4-0FCB-4E7D-A897-B716227406C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

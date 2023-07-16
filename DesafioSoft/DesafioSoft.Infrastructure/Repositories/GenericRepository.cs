@@ -20,16 +20,19 @@ namespace DesafioSoft.Infrastructure.Repositories
             _entities = _context.Set<T>();
         }
 
-        public void Add(T entity)
+        public string Add(T entity)
         {
             _context.Add(entity);
             _context.SaveChanges();
+            return "Book added successfully";
         }
 
-        public void Delete(int id)
+        public string Delete(T entity)
         {
-            _context.Remove(id);
+            _context.Remove(entity);
             _context.SaveChanges();
+
+            return "Book removed successfully";
         }
 
         public IEnumerable<T> GetAll()
@@ -42,10 +45,12 @@ namespace DesafioSoft.Infrastructure.Repositories
             return _entities.FirstOrDefault(e => e.Id == id);
         }
 
-        public void Update(T entity)
+        public string Update(T entity)
         {
             _entities.Update(entity);
             _context.SaveChanges();
+
+            return "Book updated successfully";
         }
     }
 }

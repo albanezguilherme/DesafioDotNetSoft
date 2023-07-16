@@ -29,21 +29,21 @@ namespace DesafioSoft.Controllers
         }
 
         [HttpPost]
-        public void CreateBook(Book book)
+        public ActionResult CreateBook(Book book)
         {
-            _bookService.Add(book);
+            return Ok(_bookService.Add(book));
         }
 
         [HttpPatch]
-        public void UpdateBook(Book book)
+        public ActionResult UpdateBook(Book book)
         {
-            _bookService.Update(book);
+            return Ok(_bookService.Update(book));
         }
 
         [HttpDelete]
-        public void DeleteBook(int id)
+        public ActionResult DeleteBook(Book book)
         {
-            _bookService.Delete(id);
+            return Ok(_bookService.Delete(book));
         }
     }
 }

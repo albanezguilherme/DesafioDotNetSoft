@@ -13,6 +13,8 @@ namespace DesafioSoft.Infrastructure
     {
         public DesafioSoftContext(DbContextOptions<DesafioSoftContext> options) : base(options) { }
 
+        
+
         public DbSet<Book> Books { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
