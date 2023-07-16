@@ -1,16 +1,11 @@
-﻿using System.Linq.Expressions;
-using DesafioSoft.Controllers;
+﻿using DesafioSoft.Controllers;
 using DesafioSoft.Core.Entities;
 using DesafioSoft.Core.Interfaces.Repositories;
 using DesafioSoft.Core.Interfaces.Services;
 using DesafioSoft.Core.Services;
-using DesafioSoft.Infrastructure;
-using DesafioSoft.Infrastructure.Repositories;
-using Microsoft.EntityFrameworkCore;
 using Moq;
-using NUnit.Framework;
 
-namespace DesafioSoft.Tests.Api.Tests;
+namespace DesafioSoft.Tests.Tests;
 
 [TestFixture]
 public class DesafioSoftTest
@@ -18,12 +13,10 @@ public class DesafioSoftTest
     private BookController bookController;
     private IBookService bookService;
     private Mock<IBookRepository> bookRepositoryMock;
-    private Mock<DesafioSoftContext> desafioSoftContextMock;
 
     [SetUp]
     public void Init()
     {
-        desafioSoftContextMock = new Mock<DesafioSoftContext>();
         bookRepositoryMock = new Mock<IBookRepository>();
         bookService = new BookService(bookRepositoryMock.Object);
         bookController = new BookController(bookService);
@@ -53,11 +46,11 @@ public class DesafioSoftTest
     public void AddBookSuccessTest()
     {
         bookRepositoryMock.Setup(m => m.Add(new Book())).Returns("Book added successfully");
-        var book = new Book("Book Title", "John", "2000"); 
+        var book = new Book("Book Title", "John", "2000");
 
         var result = bookController.CreateBook(book);
         Assert.IsNotNull(result);
-        Assert.DoesNotThrow(() =>bookController.CreateBook(new Book()));
+        Assert.DoesNotThrow(() => bookController.CreateBook(new Book()));
     }
 
     [Test]
